@@ -4,6 +4,8 @@ permalink: /privacy/
 ---
 1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
 
+**something**
+
 2. For our digital services:
 
  ```
