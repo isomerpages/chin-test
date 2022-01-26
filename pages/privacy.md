@@ -4,12 +4,12 @@ permalink: /privacy/
 ---
 1. This is number one
 
-**something**
+	**something**
 
 2. Do you want cookies
 
- ```
- Cookie monster 
- ```
+	 ```
+	 Cookie monster 
+	 ```
 
 a. i love cookies
