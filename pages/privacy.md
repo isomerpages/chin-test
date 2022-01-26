@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 1. This is number one
 
-	**something**
+	**something indented**
 
 2. Do you want cookies
 
