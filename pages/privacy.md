@@ -12,7 +12,9 @@ permalink: /privacy/
 
 2. For our digital services:
 
- 
+ ```
+ ALO SIR asdf
+ ```
 
 a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk. 
 
@@ -95,4 +97,3 @@ b. need more information on or access to data, which you have provided directly 
  
 
 9. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
-
