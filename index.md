@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/favicon-isomer.ico
 permalink: /
 notification: Please tell me it doesn't affect prod........
 sections:
@@ -36,3 +36,4 @@ sections:
       image: /images/asdfdf.png
       alt: Image alt text
 ---
+
