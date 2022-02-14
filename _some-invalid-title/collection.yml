@@ -1,0 +1,4 @@
+collections:
+  some-invalid-title:
+    output: true
+    order: []
