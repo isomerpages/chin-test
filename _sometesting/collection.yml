@@ -1,5 +1,4 @@
 collections:
   sometesting:
     output: true
-    order:
-      - privacy.md
+    order: []
