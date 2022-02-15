@@ -1,5 +1,4 @@
 collections:
   a-test:
     output: true
-    order:
-      - faq.md
+    order: []
