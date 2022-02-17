@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: A title
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
@@ -36,4 +36,5 @@ sections:
       image: /images/asdfdf.png
       alt: Image alt text
 ---
+
 
