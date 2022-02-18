@@ -2,8 +2,8 @@ title: A title
 url: ""
 favicon: /images/hero-banner.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#454c5a"
+  primary-color: "#070707"
+  secondary-color: "#0450ef"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
-      color: "#e5e9e9"
+      color: "#020e0e"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
