@@ -3,7 +3,7 @@ url: ""
 favicon: /images/hero-banner.png
 colors:
   primary-color: "#ffffff"
-  secondary-color: "#3f7744"
+  secondary-color: "#5a3f77"
   media-colors:
     - title: media-color-one
       color: "#49759a"
