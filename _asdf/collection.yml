@@ -1,5 +1,4 @@
 collections:
   asdf:
     output: true
-    order:
-      - privacy.md
+    order: []
