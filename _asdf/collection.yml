@@ -2,6 +2,5 @@ collections:
   asdf:
     output: true
     order:
-      - privacy.md
       - faq.md
       - Terms of Use.md
