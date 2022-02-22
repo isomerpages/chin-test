@@ -1,5 +1,4 @@
 collections:
   asdf:
     output: true
-    order:
-      - Terms of Use.md
+    order: []
