@@ -15,7 +15,7 @@ Retired Singapore Tax Partner <br>
 Ernst & Young Solutions LLP  <br>
 
 #### **Members**
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: top;">
 
 **Mrs Eng Li Ming** <br>
 Tax Advisor <br>
@@ -27,6 +27,8 @@ Marsh & McLennan Companies
 	
 </div>
 
+<div style="display: flex; flex-direction: row; align-items: top;">
+	
 **Mr Daniel Ho** <br>
 Tax Partner <br>
 Deloitte Singapore
@@ -34,6 +36,8 @@ Deloitte Singapore
 **Ms Leow Lay Hwa** <br>
 Tax Director <br>
 Inland Revenue Authority of Singapore
+	
+</div>
 
 **Associate Professor Stephen Phua** <br>
 Associate Professor <br>
