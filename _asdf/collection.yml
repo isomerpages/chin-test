@@ -2,5 +2,4 @@ collections:
   asdf:
     output: true
     order:
-      - faq.md
       - Terms of Use.md
