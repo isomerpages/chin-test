@@ -2,7 +2,7 @@ title: A title
 url: ""
 favicon: /images/hero-banner.png
 colors:
-  primary-color: "#060000"
+  primary-color: "#f4eded"
   secondary-color: "#141216"
   media-colors:
     - title: media-color-one
