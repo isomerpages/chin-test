@@ -1,8 +1,6 @@
 ---
 title: Terms of Use
 permalink: /some-terms/
-date: 2022-02-08
-layout: post
 description: ""
 image: /images/hero-banner.png
 ---
