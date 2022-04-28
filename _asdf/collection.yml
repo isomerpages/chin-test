@@ -2,5 +2,6 @@ collections:
   asdf:
     output: true
     order:
+      - Some Folder!/.keep
       - privacy.md
       - Terms of Use.md
