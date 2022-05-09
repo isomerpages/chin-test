@@ -4,7 +4,7 @@ title: Big title
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Please tell me it doesn't affect prod........
+notification: hello1234
 sections:
   - hero:
       title: Hero title
@@ -36,6 +36,3 @@ sections:
       image: /images/asdfdf.png
       alt: Image alt text
 ---
-
-
-
