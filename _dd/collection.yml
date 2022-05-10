@@ -1,0 +1,4 @@
+collections:
+  dd:
+    output: true
+    order: []
