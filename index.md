@@ -4,7 +4,7 @@ title: Big title
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
-notification: hello1234
+notification: hello1234d
 sections:
   - hero:
       title: Hero title
