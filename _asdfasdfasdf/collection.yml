@@ -1,4 +1,5 @@
 collections:
   asdfasdfasdf:
     output: true
-    order: []
+    order:
+      - asdfasdfExample Title.md
