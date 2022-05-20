@@ -2,4 +2,5 @@ collections:
   dd:
     output: true
     order:
+      - Example Title.md
       - faq.md
