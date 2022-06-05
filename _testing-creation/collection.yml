@@ -1,4 +1,5 @@
 collections:
   testing-creation:
     output: true
-    order: []
+    order:
+      - Example Title2.md
