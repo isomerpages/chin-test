@@ -1,4 +1,5 @@
 collections:
   soemthing:
     output: true
-    order: []
+    order:
+      - Example Titleffffff.md
