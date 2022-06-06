@@ -4,5 +4,4 @@ collections:
     order:
       - New subfolder/Example Title.md
       - New subfolder/.keep
-      - faq.md
       - Nwew/.keep
