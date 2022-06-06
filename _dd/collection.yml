@@ -2,6 +2,7 @@ collections:
   dd:
     output: true
     order:
+      - New subfolder/Example Title.md
       - New subfolder/.keep
       - faq.md
       - Nwew/.keep
