@@ -2,5 +2,6 @@ collections:
   dd:
     output: true
     order:
+      - Nwew/Example Title.md
       - Nwew/faq.md
       - Nwew/.keep
