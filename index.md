@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: cleaneded
+title: cleanededed
 description: updated
 image: /images/add_new.png
 permalink: /
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
