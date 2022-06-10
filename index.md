@@ -2,7 +2,7 @@
 layout: homepage
 title: cleanes
 description: updated
-image: /images/add_new.png
+image: /images/asdcrqwrtvy35w7g46eersdgvasgf.png
 permalink: /
 notification: hello1234d
 sections:
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
