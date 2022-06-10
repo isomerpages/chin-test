@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Big title
-description: Brief site description here
+title: aasdfasdf
+description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
 notification: hello1234d
@@ -40,3 +40,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
