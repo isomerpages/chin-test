@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: cleaned
-description: another
+description: anotherasdfasdfasdf
 image: /images/add_new.png
 permalink: /
 notification: hello1234d
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
