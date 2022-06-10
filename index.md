@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: shareicon
-description: shareicon
-image: /images/asdf.png
+title: another icon
+description: for icon
+image: /images/add_new.png
 permalink: /
 notification: hello1234d
 sections:
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
