@@ -1,4 +1,4 @@
-title: clean
+title: cleaned
 url: ""
 favicon: /images/hero-banner.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#b8e986"
-description: anotherasdfasdfasdf
+description: q
 permalink: none
 baseurl: ""
 exclude:
