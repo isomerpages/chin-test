@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: some update
+title: some asdf
 description: q
 image: /images/add_new.png
 permalink: /
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
