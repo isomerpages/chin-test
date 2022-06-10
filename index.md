@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: DIRTY
-description: super
+description: supera
 image: /images/asdf.png
 permalink: /
 notification: hello1234d
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
