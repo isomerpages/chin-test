@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: DIRTY
+title: sDIRTY
 description: asdf
 image: /images/asdf.png
 permalink: /
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
