@@ -54,6 +54,6 @@ prod: https://chin-test-prod.netlify.app
 shareicon: /images/add_new.png
 resources_name: i-am-a-resource
 is_government: true
-facebook-pixel: something
+facebook-pixel: updated
 google_analytics: ""
 linkedin-insights: ""
