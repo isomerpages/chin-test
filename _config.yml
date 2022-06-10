@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://chin-test-staging.netlify.app
 prod: https://chin-test-prod.netlify.app
-shareicon: /images/asdcrqwrtvy35w7g46eersdgvasgf.png
+shareicon: ""
 resources_name: i-am-a-resource
 is_government: false
 facebook-pixel: something
