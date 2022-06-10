@@ -2,7 +2,7 @@
 layout: homepage
 title: untouched
 description: touched
-image: /images/add_new.png
+image: /images/asdf.png
 permalink: /
 notification: hello1234d
 sections:
@@ -40,6 +40,7 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
 
 
