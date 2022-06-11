@@ -53,7 +53,7 @@ staging: https://chin-test-staging.netlify.app
 prod: https://chin-test-prod.netlify.app
 shareicon: /images/asdf.png
 resources_name: i-am-a-resource
-is_government: false
+is_government: true
 facebook-pixel: updated
 google_analytics: ""
 linkedin-insights: ""
