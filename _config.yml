@@ -2,7 +2,7 @@ title: sDIRTY
 url: ""
 favicon: /images/hero-banner.png
 colors:
-  primary-color: "#ffffff"
+  primary-color: "#000000"
   secondary-color: "#9848e8"
   media-colors:
     - title: media-color-one
