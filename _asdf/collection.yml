@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Example Title'.md
-      - Lll/asdfasdfExample Title.md
-      - Lll/.keep
+      - Llls/asdfasdfExample Title.md
+      - Llls/.keep
