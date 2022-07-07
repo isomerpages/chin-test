@@ -1,5 +1,5 @@
 collections:
-  asdf:
+  new-name:
     output: true
     order:
       - Example Title'.md
