@@ -1,5 +1,5 @@
 collections:
-  fgggg:
+  also-has-content:
     output: true
     order:
       - Example Title.md
