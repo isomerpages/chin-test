@@ -1,5 +1,5 @@
 collections:
-  ffffasdfffffasdfffffasdfffffaz:
+  has-content:
     output: true
     order:
       - Example Titleffff.md
