@@ -2,4 +2,4 @@ collections:
   also-has-content:
     output: true
     order:
-      - Example.md
+      - Example title.md
