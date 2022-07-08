@@ -2,6 +2,7 @@ collections:
   dd:
     output: true
     order:
+      - Example Title.md
       - Nested/faq.md
       - Nested/some title.md
       - Nested/.keep
