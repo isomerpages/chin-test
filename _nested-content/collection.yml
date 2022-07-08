@@ -1,5 +1,5 @@
 collections:
-  dd:
+  nested-content:
     output: true
     order:
       - Example Title.md
