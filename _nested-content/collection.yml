@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Nwew/.keep
-      - Nested/.keep
-      - Nested/faq.md
-      - Nested/some title.md
+      - Nested again/.keep
+      - Nested again/faq.md
+      - Nested again/some title.md
       - Example Title.md
