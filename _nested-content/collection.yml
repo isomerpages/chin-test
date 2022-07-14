@@ -2,8 +2,8 @@ collections:
   nested-content:
     output: true
     order:
-      - Example Title.md
+      - Nested/.keep
       - Nested/faq.md
       - Nested/some title.md
-      - Nested/.keep
+      - Example Title.md
       - Nwew/.keep
