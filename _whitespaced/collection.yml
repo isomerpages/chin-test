@@ -1,4 +1,5 @@
 collections:
   whitespaced:
     output: true
-    order: []
+    order:
+      - Example Title.md
