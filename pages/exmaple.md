@@ -3,6 +3,4 @@ title: exmaple
 permalink: /permalink
 description: somethjing
 ---
-
-
-asdf
+<a target = "_blank" href = "www.google.com"> asdfasdf </a>
