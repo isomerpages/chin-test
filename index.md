@@ -4,7 +4,7 @@ title: sDIRTY
 description: asdfasdfasdf
 image: /images/asdf.png
 permalink: /
-notification: hello1234d
+notification: ""
 sections:
   - hero:
       title: Hero title
