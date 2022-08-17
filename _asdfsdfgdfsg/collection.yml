@@ -2,7 +2,7 @@ collections:
   asdfsdfgdfsg:
     output: true
     order:
-      - Some Folder!/asdfasdfExample Title.md
-      - Some Folder!/Terms of Use.md
-      - Some Folder!/.keep
+      - Some Folders/asdfasdfExample Title.md
+      - Some Folders/Terms of Use.md
+      - Some Folders/.keep
       - privacy.md
