@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Changed
       subtitle: Hero subtitle
       background: /images/asdfdf.png
       button: Contact Us
