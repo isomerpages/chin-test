@@ -2,4 +2,5 @@ collections:
   asdfasdf:
     output: true
     order:
+      - Example title.md
       - Example Title'.md
