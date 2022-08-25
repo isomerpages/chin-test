@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/hero-banner.png
 colors:
   primary-color: "#ff0000"
-  secondary-color: "#ff0000"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
