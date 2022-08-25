@@ -1,5 +1,4 @@
 collections:
   also-has-content:
     output: true
-    order:
-      - Example title.md
+    order: []
