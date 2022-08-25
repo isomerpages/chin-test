@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: sDIRTY
+title: very clean
 description: asdfasdfasdf
 image: /images/asdf.png
 permalink: /
@@ -40,3 +40,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
