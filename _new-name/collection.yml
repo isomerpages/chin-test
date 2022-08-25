@@ -1,5 +1,4 @@
 collections:
   new-name:
     output: true
-    order:
-      - Example Title'.md
+    order: []
