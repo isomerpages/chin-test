@@ -2,4 +2,5 @@ collections:
   has-content:
     output: true
     order:
+      - Second.md
       - First.md
