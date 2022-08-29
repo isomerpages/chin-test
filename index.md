@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: very clean
+title: very cleaning
 description: asdfasdfasdf
 image: /images/asdf.png
 permalink: /
@@ -40,4 +40,5 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
