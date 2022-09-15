@@ -1,0 +1,4 @@
+collections:
+  test-folder-with-pages:
+    output: true
+    order: []
