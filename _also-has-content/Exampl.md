@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Exampl
 permalink: /also-has-content/permalink
 description: ""
 ---
