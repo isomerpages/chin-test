@@ -1,0 +1,7 @@
+collections:
+  has-content:
+    output: true
+    order:
+      - Asdfasdf/.keep
+      - Second.md
+      - First.md

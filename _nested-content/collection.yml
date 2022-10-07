@@ -1,0 +1,10 @@
+collections:
+  nested-content:
+    output: true
+    order:
+      - Nwew/Example Title.md
+      - Nwew/.keep
+      - Nested again/.keep
+      - Nested again/faq.md
+      - Nested again/some title.md
+      - Example Title.md

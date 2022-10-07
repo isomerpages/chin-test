@@ -1,0 +1,8 @@
+collections:
+  asdfsdfgdfsg:
+    output: true
+    order:
+      - Some Folders/asdfasdfExample Title.md
+      - Some Folders/Terms of Use.md
+      - Some Folders/.keep
+      - privacy.md

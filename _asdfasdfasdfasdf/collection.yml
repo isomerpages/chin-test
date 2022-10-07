@@ -1,0 +1,6 @@
+collections:
+  asdfasdfasdfasdf:
+    output: true
+    order:
+      - Asdfasdf/.keep
+      - Example Titleasdf.md

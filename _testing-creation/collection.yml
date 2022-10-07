@@ -1,0 +1,5 @@
+collections:
+  testing-creation:
+    output: true
+    order:
+      - Example Title2.md

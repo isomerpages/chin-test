@@ -1,0 +1,6 @@
+collections:
+  soemthing:
+    output: true
+    order:
+      - Example Titleffffff.md
+      - asdfasdfExample Titleasdfasdf.md

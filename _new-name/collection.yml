@@ -1,0 +1,4 @@
+collections:
+  new-name:
+    output: true
+    order: []
