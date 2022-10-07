@@ -1,6 +1,6 @@
 ---
 title: Exampl
-permalink: /also-has-content/permalink
+permalink: /also-has-content/permalink/
 description: ""
 ---
-
+asdf
