@@ -3,8 +3,4 @@ title: Example title
 permalink: /permalink/
 description: ""
 ---
-
-
-
-
-d
+aiya some title who cares
