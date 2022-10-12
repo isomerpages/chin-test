@@ -1,6 +1,5 @@
 ---
-title: Example title
+title: Created page
 permalink: /permalink/
 description: ""
 ---
-aiya some title who cares
