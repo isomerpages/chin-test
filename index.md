@@ -4,7 +4,7 @@ title: very cleaningest
 description: asdfasdfasdf
 image: /images/asdf.png
 permalink: /
-notification: ""
+notification: asdfasdf
 sections:
   - hero:
       title: Changed
@@ -40,6 +40,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
-
-
