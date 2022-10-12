@@ -1,7 +1,6 @@
 ---
 title: Example Title'
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
-
-i have been  <a href = "https://www.google.com">edited</a>
+i have been  <a href = "https://www.google.com">edited</a>sdfsdfg
