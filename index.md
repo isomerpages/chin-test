@@ -4,7 +4,7 @@ title: very cleaningest
 description: asdfasdfasdf
 image: /images/asdf.png
 permalink: /
-notification: sdf
+notification: sdfaasdf
 sections:
   - hero:
       title: Changed
