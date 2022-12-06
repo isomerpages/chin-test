@@ -25,7 +25,11 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: <iframe width="360" height="360"
+        src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
       button: Button text
       url: /faq/
   - infopic:
