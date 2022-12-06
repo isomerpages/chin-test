@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: <iframe width="360" height="360"
+      description: <iframe min-width="360" min-height="360"
         src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
