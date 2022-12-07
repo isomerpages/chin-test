@@ -2,4 +2,5 @@ collections:
   collection:
     output: true
     order:
+      - Subcollection/.keep
       - collection page.md
