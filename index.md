@@ -1,19 +1,5 @@
 ---
 layout: homepage
-title: very cleaningest
-description: asdfasdfasdf
-image: /images/asdf.png
-permalink: /
-notification: asdfas
-sections:
-  - hero:
-      title: Changed
-      subtitle: Hero subtitle
-      background: /images/asdfdf.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:---
-layout: homepage
 title: Catholic Junior College
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
@@ -202,34 +188,4 @@ sections:
         href="https://www.facebook.com/CatholicJC/'
       title: Facebook
       button: " "
----
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: <iframe min-width="360" min-height="360"
-        src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/asdfdf.png
-      alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
