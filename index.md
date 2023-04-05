@@ -61,7 +61,7 @@ sections:
       alt: My CJ Stories
       image: /images/mycjstories_infopic.jpg
   - infobar:
-      url: '"></a><center><blockquote class="instagram-media"
+      url: '</a><center><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0;
         border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0
@@ -185,7 +185,7 @@ sections:
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><style>img {   border-radius: 16px;
         }     .media-card-plain { border-radius: 16px; }</style><a
-        href="https://www.facebook.com/CatholicJC/'
+        href='https://www.facebook.com/CatholicJC/'
       title: Facebook
       button: " "
 ---
