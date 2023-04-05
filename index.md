@@ -1,4 +1,4 @@
-
+---
 layout: homepage
 title: Catholic Junior College
 description: An Isomer site of the Singapore Government
@@ -60,3 +60,4 @@ sections:
       url: " /news/2022/10/"
       alt: My CJ Stories
       image: /images/mycjstories_infopic.jpg
+---
