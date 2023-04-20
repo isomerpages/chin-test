@@ -21,6 +21,21 @@ sections:
           description: ""
           url: /alumni/
       background: /images/Landing Page Carousel.gif
+      url: "'\"></a><script async defer
+        crossorigin=\"anonymous\"         src=\"https://connect.facebook.net/en\
+        _GB/sdk.js#xfbml=1&version=v16.0\"         nonce=\"wi61oHEa\"></script>\
+        <div
+        class=\"fb-page\"         data-href=\"https://www.facebook.com/Catholic\
+        JC/\" data-tabs=\"timeline\"         data-width=\"500\" data-height=\"\"
+        data-small-header=\"false\"         data-adapt-container-width=\"true\"
+        data-hide-cover=\"false\"         data-show-facepile=\"true\"><blockquo\
+        te         cite=\"https://www.facebook.com/CatholicJC/\"         class=\
+        \"fb-xfbml-parse-ignore\"><a         href=\"https://www.facebook.com/Ca\
+        tholicJC/\">Catholic
+        Junior         College</a></blockquote></div><style>img
+        {   border-radius: 16px;         }     .media-card-plain {
+        border-radius: 16px;
+        }</style><a         href=\"https://www.facebook.com/CatholicJC/'"
   - resources:
       title: Happenings at CJC
       subtitle: News
@@ -61,7 +76,7 @@ sections:
       alt: My CJ Stories
       image: /images/mycjstories_infopic.jpg
   - infobar:
-      url: "https://www.google.com"
+      url: https://www.google.com
       button: Check our latest happenings
       title: Instagram
       subtitle: something
