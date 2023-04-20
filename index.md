@@ -31,6 +31,7 @@ sections:
         {   border-radius: 16px;         }     .media-card-plain {
         border-radius: 16px;
         }</style><a         href="https://www.facebook.com/CatholicJC/'
+      title: asdf
   - resources:
       title: Happenings at CJC
       subtitle: News
