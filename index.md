@@ -21,21 +21,16 @@ sections:
           description: ""
           url: /alumni/
       background: /images/Landing Page Carousel.gif
-      url: "'\"></a><script async defer
-        crossorigin=\"anonymous\"         src=\"https://connect.facebook.net/en\
-        _GB/sdk.js#xfbml=1&version=v16.0\"         nonce=\"wi61oHEa\"></script>\
-        <div
-        class=\"fb-page\"         data-href=\"https://www.facebook.com/Catholic\
-        JC/\" data-tabs=\"timeline\"         data-width=\"500\" data-height=\"\"
-        data-small-header=\"false\"         data-adapt-container-width=\"true\"
-        data-hide-cover=\"false\"         data-show-facepile=\"true\"><blockquo\
-        te         cite=\"https://www.facebook.com/CatholicJC/\"         class=\
-        \"fb-xfbml-parse-ignore\"><a         href=\"https://www.facebook.com/Ca\
-        tholicJC/\">Catholic
+      url: '"></a><script async defer
+        crossorigin="anonymous"         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"         nonce="wi61oHEa"></script><div
+        class="fb-page"         data-href="https://www.facebook.com/CatholicJC/"
+        data-tabs="timeline"         data-width="500" data-height=""
+        data-small-header="false"         data-adapt-container-width="true"
+        data-hide-cover="false"         data-show-facepile="true"><blockquote         cite="https://www.facebook.com/CatholicJC/"         class="fb-xfbml-parse-ignore"><a         href="https://www.facebook.com/CatholicJC/">Catholic
         Junior         College</a></blockquote></div><style>img
         {   border-radius: 16px;         }     .media-card-plain {
         border-radius: 16px;
-        }</style><a         href=\"https://www.facebook.com/CatholicJC/'"
+        }</style><a         href="https://www.facebook.com/CatholicJC/'
   - resources:
       title: Happenings at CJC
       subtitle: News
