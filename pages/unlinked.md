@@ -44,40 +44,6 @@ DSA students will be automatically enrolled into the school’s Tier 2 STEM Appl
   
 
   
-
-  
-
-  
-
-  
-
-Criteria for DSA in Talent Area 2: Science for sustainable development
-
-Applicants should:
-
-· &nbsp; &nbsp; &nbsp; Demonstrate strong interest and talent in the area of STEM (Science, Technology, Engineering, Mathematics).
-
-· &nbsp; &nbsp; &nbsp; Exuberate passion in advocating for sustainability/ the environment.
-
-· &nbsp; &nbsp; &nbsp; Have participated in relevant opportunities/ CCA/ interest group within or outside school.
-
-· &nbsp; &nbsp; &nbsp; Be able to manage academic workload.
-
-· &nbsp; &nbsp; &nbsp; Have good conduct.&nbsp;
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
-
-Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-
-Useful MOE weblinks:
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="312"><col width="312"></colgroup><tbody><tr style="height:37.5pt"><td style="border-bottom:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.6800000000000002;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DSA-Sec Main Webpage</span></p></td><td style="border-bottom:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.5;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><a style="text-decoration:none;" href="https://www.moe.gov.sg/dsa-sec"><span style="font-size:12pt;font-family:Arial;color:#fdb813;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://www.moe.gov.sg/dsa-sec</span></a><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;&nbsp;</span></p></td></tr><tr style="height:37.5pt"><td style="border-bottom:solid #d6d6d6 0.7465275pt;border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.6800000000000002;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Instructions on Application</span></p></td><td style="border-bottom:solid #d6d6d6 0.7465275pt;border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.5;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><a style="text-decoration:none;" href="https://go.gov.sg/dsa-sec-application"><span style="font-size:12pt;font-family:Arial;color:#fdb813;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://go.gov.sg/dsa-sec-application</span></a><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td></tr><tr style="height:37.5pt"><td style="border-bottom:solid #d6d6d6 0.7465275pt;border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.6800000000000002;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Direct to DSA-Sec Portal</span><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:#cad2db;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td><td style="border-bottom:solid #d6d6d6 0.7465275pt;border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.5;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><a style="text-decoration:none;" href="https://go.gov.sg/apply-dsa-sec"><span style="font-size:12pt;font-family:Arial;color:#fdb813;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://go.gov.sg/apply-dsa-sec</span></a><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:#cad2db;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td></tr><tr style="height:37.5pt"><td style="border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.6800000000000002;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">DSA-Sec iFAQs</span></p></td><td style="border-top:solid #d6d6d6 0.7465275pt;vertical-align:top;background-color:#eaeaea;padding:2pt 2pt 2pt 2pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.5;text-align: center;margin-top:0pt;margin-bottom:15pt;" dir="ltr"><a style="text-decoration:none;" href="https://go.gov.sg/dsa-secfaqs"><span style="font-size:12pt;font-family:Arial;color:#fdb813;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">https://go.gov.sg/dsa-secfaqs</span></a><span style="font-size:12pt;font-family:Arial;color:#222222;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td></tr></tbody></table>
-
 Contact Us
 
 For further enquiries, parents/ applicants may email us at woodgrove\_ss@moe.edu.sg with \[DSA\] in the subject of the email.
-
-  
-**
