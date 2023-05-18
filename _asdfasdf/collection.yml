@@ -2,5 +2,6 @@ collections:
   asdfasdf:
     output: true
     order:
-      - Example title.md
+      - Cvccc/.keep
+      - some title.md
       - Example Title'.md
