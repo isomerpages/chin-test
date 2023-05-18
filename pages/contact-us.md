@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Catholic Junior College
+agency_name: cccc
 locations:
   - address:
       - 129 Whitley Road
@@ -11,13 +11,11 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7am to 5pm
-        description: >
-          The Administrative Office will be closed on Saturdays, Sundays and
+        description: The Administrative Office will be closed on Saturdays, Sundays and
           Public Holidays.
     maps_link: /visitor-information/" class="bp-sec-button has-text-secondary
-      margin--top"><div><SPAN>Visitor Information</SPAN><i class="sgds-icon
-      sgds-icon-arrow-right" aria-hidden="true"></i></div></a></div><div><a
-      href="https://goo.gl/maps/jE71yoBu6FpzrxuLA
+      margin--top"><div><span>Visitor Information</span><i class="sgds-icon
+      sgds-icon-arrow-right" aria-hidden="true"></i></div><div></div>
     title: Address
 contacts:
   - content:
@@ -33,4 +31,5 @@ contacts:
           office and leave a message for the particular staff member to whom you
           wish to speak.
     title: Fax
+feedback: wuckus
 ---
