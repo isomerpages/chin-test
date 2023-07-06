@@ -2,5 +2,6 @@ collections:
   renamed-folder-with-content:
     output: true
     order:
+      - Sub folder/Example Title.md
       - Sub folder/.keep
       - லோரம் இப்சம்.md
