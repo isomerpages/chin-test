@@ -1,5 +1,0 @@
-collections:
-  renamed-with-content:
-    output: true
-    order:
-      - Exampl.md
