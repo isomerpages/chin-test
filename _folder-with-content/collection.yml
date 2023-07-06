@@ -1,0 +1,4 @@
+collections:
+  folder-with-content:
+    output: true
+    order: []
