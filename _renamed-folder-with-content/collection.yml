@@ -2,4 +2,5 @@ collections:
   renamed-folder-with-content:
     output: true
     order:
+      - Sub folder/.keep
       - லோரம் இப்சம்.md
