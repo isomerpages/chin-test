@@ -1,5 +1,5 @@
 collections:
-  folder-with-content:
+  renamed-folder-with-content:
     output: true
     order:
       - Example Title.md
