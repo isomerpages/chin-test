@@ -2,5 +2,6 @@ collections:
   asdfasdfasdfasdf:
     output: true
     order:
+      - Asdfasdf/Example Title.md
       - Asdfasdf/.keep
       - Example Titleasdf.md
