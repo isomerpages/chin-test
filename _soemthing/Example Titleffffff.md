@@ -1,6 +1,6 @@
 ---
 title: Example Titleffffff
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
-
+asdfasdf
