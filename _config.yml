@@ -2,8 +2,8 @@ title: very cleaningest
 url: https://www.open.gov.sg
 favicon: /images/hero-banner.png
 colors:
-  primary-color: "#ff0000"
-  secondary-color: "#030000"
+  primary-color: "#f5d9d9"
+  secondary-color: "#7c6af6"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -53,7 +53,7 @@ staging: https://chin-test-staging.netlify.app
 prod: https://chin-test-prod.netlify.app
 shareicon: /images/asdf.png
 is_government: true
-facebook-pixel: updated
+facebook-pixel: ""
 google_analytics: asdfsdf
 linkedin-insights: asdfasdfasdf
 resources_name: resoucres
