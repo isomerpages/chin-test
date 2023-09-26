@@ -2,8 +2,8 @@ title: very cleaningest
 url: https://www.open.gov.sg
 favicon: /images/hero-banner.png
 colors:
-  primary-color: "#f5d9d9"
-  secondary-color: "#7c6af6"
+  primary-color: "#4ff10e"
+  secondary-color: "#bfed15"
   media-colors:
     - title: media-color-one
       color: "#49759a"
