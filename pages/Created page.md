@@ -2,5 +2,6 @@
 title: Created page
 permalink: /permalink/
 description: ""
+variant: tiptap
 ---
-testing321
+<p>testing321fffff</p>
