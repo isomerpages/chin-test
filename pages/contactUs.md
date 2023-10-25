@@ -2,5 +2,6 @@
 title: contactUs
 permalink: /permalink/
 description: ""
+variant: tiptap
 ---
-contacted
+<p>contacted</p>
