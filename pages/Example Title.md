@@ -2,6 +2,6 @@
 title: Example Title
 permalink: /permalink/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p></p>
+<p>is there xss?</p>
