@@ -1,7 +1,0 @@
-collections:
-  aaaaaa:
-    output: true
-    order:
-      - Cvccc/.keep
-      - some title.md
-      - Example Title'.md
