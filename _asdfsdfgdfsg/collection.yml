@@ -2,7 +2,4 @@ collections:
   asdfsdfgdfsg:
     output: true
     order:
-      - Some/asdfasdfExample Title.md
-      - Some/Terms of Use.md
-      - Some/.keep
       - privacy.md
