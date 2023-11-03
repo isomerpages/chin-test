@@ -4,7 +4,7 @@ title: Catholic Junior College
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "hello"
+notification: "heasdfllo"
 sections:
   - hero:
       key_highlights:
