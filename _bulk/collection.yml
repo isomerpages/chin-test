@@ -1,0 +1,4 @@
+collections:
+  bulk:
+    output: true
+    order: []
